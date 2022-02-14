@@ -2,6 +2,6 @@
 
 call "@baserom_filename.bat"
 
-cd .\AddmusicK_1.0.8\
+cd .\common\AddmusicK_1.0.8\
 .\AddmusicK.exe "..\%ROMFILE%.smc"
 pause
